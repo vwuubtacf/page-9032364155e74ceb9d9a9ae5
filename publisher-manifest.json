@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "98b79c5382545ff7a81f403b",
+  "owner": "vwuubtacf",
+  "repo": "page-9032364155e74ceb9d9a9ae5",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9032364155e74ceb9d9a9ae5",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bdb68bd5816eefe181d625a25331e334a4a0d32a5f3c9b3e8a9c8c1888fc5110",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN机场提供安全稳定的网络加速服务，多种客户端下载，支持高速上网和流媒体解锁。",
+          "AI_DESCRIPTION": "快柠檬VPN机场提供安全稳定的网络加速服务，多种客户端下载，支持高速上网和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n\n\n<style>\n  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 0; background: #f8f9fa; }\n  header { background: #0A2540; color: white; padding: 1rem; }\n  nav { display: flex; justify-content: space-between; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 1rem; }\n  .logo { font-size: 1.5rem; font-weight: bold; color: #00D4FF; }\n  nav ul { display: flex; list-style: none; }\n  nav ul li { margin-left: 2rem; }\n  nav a { color: white; text-decoration: none; }\n  main { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }\n  h1 { font-size: 2.5rem; color: #0A2540; text-align: center; margin-bottom: 1rem; }\n  section { margin-bottom: 3rem; }\n  .hero { background: linear-gradient(135deg, #0A2540, #1E3A8A); color: white; padding: 4rem 2rem; text-align: center; }\n  .steps { display: flex; flex-direction: column; gap: 1.5rem; }\n  .step { display: flex; align-items: flex-start; background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }\n  .step-number { background: #00D4FF; color: white; width: 2rem; height: 2rem; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; margin-right: 1rem; flex-shrink: 0; }\n  .plans-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; }\n  .plan-card { background: white; border: 2px solid #0A2540; border-radius: 8px; padding: 1.5rem; }\n  .plan-card.featured { border-color: #00D4FF; }\n  .plan-card h3 { font-size: 1.5rem; margin: 0 0 0.5rem; }\n  .plan-card p.price { font-size: 1.8rem; color: #0A2540; }\n  .plan-card ul { list-style: none; padding: 0; }\n  .plan-card li { padding: 0.5rem 0; }\n  .faq { }\n  details { margin-bottom: 1rem; border: 1px solid #ddd; border-radius: 8px; }\n  details summary { padding: 1rem; font-weight: bold; cursor: pointer; }\n  details p { padding: 0 1rem 1rem; }\n  @media (max-width: 768px) {\n    nav ul { flex-direction: column; }\n    nav ul li { margin-left: 0; margin-bottom: 1rem; }\n  }\n</style>\n\n\n<header>\n  <nav>\n    <div class=\"logo\">快柠檬</div>\n    <ul>\n      <li><a href=\"#about\">关于我们</a></li>\n      <li><a href=\"#steps\">使用步骤</a></li>\n      <li><a href=\"#plans\">套餐选择</a></li>\n      <li><a href=\"#download\">客户端下载</a></li>\n      <li><a href=\"#faq\">FAQ</a></li>\n    </ul>\n  </nav>\n</header>\n<main>\n  <section class=\"hero\">\n    <h1>快柠檬</h1>\n    <p>安全稳定的高速VPN加速器，助力您的网络畅行无阻。多种客户端下载，随时开启极速体验。</p>\n  </section>\n  <section id=\"about\">\n    <h2>品牌简介</h2>\n    <p>快柠檬是一款专业的网络加速和VPN服务品牌。我们致力于为用户提供安全、快速、稳定的上网环境，帮助您轻松访问全球内容。</p>\n  </section>\n  <section id=\"steps\">\n    <h2>使用步骤</h2>\n    <div class=\"steps\">\n      <div class=\"step\">\n        <div class=\"step-number\">1</div>\n        <div>\n          <h3>选择套餐</h3>\n          <p>根据您的需求选择适合的套餐版本，从基础版到团队版满足不同用户群体。</p>\n        </div>\n      </div>\n      <div class=\"step\">\n        <div class=\"step-number\">2</div>\n        <div>\n          <h3>完成支付</h3>\n          <p>便捷的在线支付流程，支持多种支付方式，立即享受服务。</p>\n        </div>\n      </div>\n      <div class=\"step\">\n        <div class=\"step-number\">3</div>\n        <div>\n          <h3>下载客户端</h3>\n          <p>获取最新版本的客户端软件，准备开始连接。</p>\n        </div>\n      </div>\n      <div class=\"step\">\n        <div class=\"step-number\">4</div>\n        <div>\n          <h3>安装并连接</h3>\n          <p>安装客户端后，登录账号并选择合适的节点进行连接。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n  <section id=\"plans\">\n    <h2>套餐选择</h2>\n    {{PLANS_HTML}}\n  </section>\n  <section id=\"download\">\n    <h2>客户端下载</h2>\n    {{CLIENTS_HTML}}\n  </section>\n  <section id=\"faq\">\n    <h2>常见问题</h2>\n    <div class=\"faq\">\n      <details>\n        <summary>什么是快柠檬VPN？</summary>\n        <p>快柠檬VPN是一款专业的网络加速器和VPN服务，旨在提供安全稳定的高速连接，帮助用户畅享全球网络内容。</p>\n      </details>\n      <details>\n        <summary>支持哪些设备？</summary>\n        <p>我们支持多台设备同时在线，具体取决于您的套餐版本。</p>\n      </details>\n      <details>\n        <summary>能解锁哪些流媒体平台？</summary>\n        <p>不同套餐版本支持不同的流媒体解锁能力。</p>\n      </details>\n      <details>\n        <summary>如何选择合适的套餐？</summary>\n        <p>根据流量需求、设备数量和使用场景选择基础版、旗舰版或团队版。</p>\n      </details>\n      <details>\n        <summary>支持的操作系统有哪些？</summary>\n        <p>我们提供适用于常见操作系统的客户端版本。</p>\n      </details>\n      <details>\n        <summary>如何获得更多流量？</summary>\n        <p>选择更高流量的套餐版本。</p>\n      </details>\n    </div>\n  </section>\n</main>\n<footer>\n  <p>© 快柠檬 VPN 机场 所有权利保留</p>\n  <p>友情链接: <a href=\"#\">官方博客</a> | <a href=\"#\">合作伙伴</a></p>\n</footer>\n\n",
+          "hash": "c0d7ec7aef61ed844f5b45d8239067d441095c746ef876b319de099ad4045a93",
+          "seo": {
+            "title": "快柠檬VPN 机场 - 高速网络加速器 客户端下载",
+            "keywords": "快柠檬, VPN, 机场, 加速器, 客户端下载, 官网下载",
+            "description": "快柠檬VPN机场提供安全稳定的网络加速服务，多种客户端下载，支持高速上网和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hpzz0.cn",
+    "host": "home.hpzz0.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "hpzz0.cn",
+      "url": "https://hpzz0.cn/",
+      "label": "MIMEMI",
+      "apex": "hpzz0.cn",
+      "kind": null,
+      "identity": "jichangdaquan999/page-48a2276212ce136f0baa5c2c"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8ce05017502b5ca02c36312eb1e546dca837aaf241391133fa0c72721bcb7bca",
+    "sitemap.xml": "71d287807a9be753ecd2fba7cef53b7cd12687479f6c3524bbcf4cb558af99c7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "394644f24b097501b8bc4c6d2f15d7b5e74e2a5c8d350f5efe2877b98f4e4b8a",
+    "robots.txt": "d113aa2d1b7bc02dafa6a2a9abc6f258dd562c550505c3b89d39ab98abb62359",
+    "b61b575b43280419978fe18ff66b9785.txt": "ff6021e6bd5c2bfe363facb6aab4a23c04319ab72dc09155022e4d8b1b3b0b73"
+  },
+  "revision": "f642c0c9d7a75bf80814738960b9e76dd1f166e0a77bd5fd2961478856c33b8b"
+}
